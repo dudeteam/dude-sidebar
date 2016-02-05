@@ -1,0 +1,28 @@
+{
+  "name": "dude-seed",
+  "version": "0.0.1",
+  "authors": [
+    "Jonathan Picques <jonathan.picques@gmail.com>",
+    "Jeremie Taboada <taboada.jeremie@gmail.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "dude",
+    "state"
+  ],
+  "main": "dude-seed.html",
+  "license": "MIT",
+  "homepage": "https://github.com/dudeteam/dude-seed/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
