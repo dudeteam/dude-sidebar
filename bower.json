@@ -1,11 +1,11 @@
 {
-  "name": "dude-seed",
+  "name": "dude-sidebar",
   "version": "0.0.1",
   "authors": [
     "Jonathan Picques <jonathan.picques@gmail.com>",
     "Jeremie Taboada <taboada.jeremie@gmail.com>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "Simple contextual sidebar.",
   "keywords": [
     "dude",
     "state"
